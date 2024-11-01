@@ -1,0 +1,119 @@
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\QLThuoc.exe.config
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\QLThuoc.exe
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\QLThuoc.pdb
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Data.v20.1.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Images.v20.1.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Mvvm.v20.1.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Xpf.Controls.v20.1.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Xpf.Core.v20.1.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Xpf.Grid.v20.1.Core.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Xpf.Grid.v20.1.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Xpf.LayoutControl.v20.1.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Xpf.Themes.MetropolisDark.v20.1.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Data.v20.1.xml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Mvvm.v20.1.xml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Xpf.Controls.v20.1.xml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Xpf.Core.v20.1.xml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Xpf.Grid.v20.1.xml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Xpf.Grid.v20.1.Core.xml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Xpf.LayoutControl.v20.1.xml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\de\DevExpress.Xpf.Controls.v20.1.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\es\DevExpress.Xpf.Controls.v20.1.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\ja\DevExpress.Xpf.Controls.v20.1.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\ru\DevExpress.Xpf.Controls.v20.1.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\de\DevExpress.Xpf.Core.v20.1.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\es\DevExpress.Xpf.Core.v20.1.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\ja\DevExpress.Xpf.Core.v20.1.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\ru\DevExpress.Xpf.Core.v20.1.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\de\DevExpress.Xpf.Grid.v20.1.Core.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\es\DevExpress.Xpf.Grid.v20.1.Core.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\ja\DevExpress.Xpf.Grid.v20.1.Core.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\ru\DevExpress.Xpf.Grid.v20.1.Core.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\de\DevExpress.Xpf.LayoutControl.v20.1.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\es\DevExpress.Xpf.LayoutControl.v20.1.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v20.1.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v20.1.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\Views\BanHang.baml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\Views\DMThuoc.baml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\Views\Home.baml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\MainWindow.g.cs
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\Views\BanHang.g.cs
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\Views\DMThuoc.g.cs
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\Views\DoiTac.g.cs
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\Views\Home.g.cs
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\Views\MuaHang.g.cs
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\Views\ThemHoadon.g.cs
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\App.g.cs
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\QLThuoc_MarkupCompile.cache
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\QLThuoc_MarkupCompile.lref
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\MainWindow.baml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\Views\DoiTac.baml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\Views\MuaHang.baml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\Views\ThemHoadon.baml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\QLThuoc.g.resources
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\QLThuoc.Properties.Resources.resources
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\QLThuoc.csproj.GenerateResource.cache
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\QLThuoc.exe.licenses
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\QLThuoc.csproj.CoreCompileInputs.cache
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\QLThuoc.csproj.CopyComplete
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\QLThuoc.exe
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\QLThuoc.pdb
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\Views\BaoCao\TonKho.g.cs
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\Views\BaoCao\TonKho.baml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\QLThuoc.csprojAssemblyReference.cache
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\Views\BaoCao\DoanhThu.baml
+D:\CODE\WPF\KhachHang\QLThuoc\QLThuoc\obj\Debug\Views\BaoCao\DoanhThu.g.cs
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\bin\Debug\QLThuoc.exe.config
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\bin\Debug\QLThuoc.exe
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\bin\Debug\QLThuoc.pdb
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\QLThuoc.csproj.AssemblyReference.cache
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\QLThuoc.csproj.SuggestedBindingRedirects.cache
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\Views\BanHang.baml
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\Views\DMThuoc.baml
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\Views\Home.baml
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\MainWindow.g.cs
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\Views\BanHang.g.cs
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\Views\BaoCao\DoanhThu.g.cs
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\Views\BaoCao\TonKho.g.cs
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\Views\DMThuoc.g.cs
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\Views\DoiTac.g.cs
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\Views\Home.g.cs
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\Views\MuaHang.g.cs
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\Views\ThemHoadon.g.cs
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\App.g.cs
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\QLThuoc_MarkupCompile.cache
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\QLThuoc_MarkupCompile.lref
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\MainWindow.baml
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\Views\BaoCao\DoanhThu.baml
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\Views\BaoCao\TonKho.baml
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\Views\DoiTac.baml
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\Views\MuaHang.baml
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\Views\ThemHoadon.baml
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\QLThuoc.g.resources
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\QLThuoc.Properties.Resources.resources
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\QLThuoc.csproj.GenerateResource.cache
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\QLThuoc.exe.licenses
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\QLThuoc.csproj.CoreCompileInputs.cache
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\QLThuoc.csproj.CopyComplete
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\QLThuoc.exe
+C:\Users\YA DAT\Documents\Zalo Received Files\QLThuoc\QLThuoc\QLThuoc\obj\Debug\QLThuoc.pdb

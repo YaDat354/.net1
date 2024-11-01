@@ -1,0 +1,141 @@
+﻿<UserControl x:Class="QLThuoc.Views.BanHang"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" Name="ViewBanHang" Background="BlueViolet"
+             xmlns:dxwui="http://schemas.devexpress.com/winfx/2008/xaml/windowsui"
+             xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"
+             xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors" Loaded="ViewBanHang_Loaded"
+             xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core">
+
+  <dxwui:PageAdornerControl Header="Hóa đơn bán thuốc" ShowBackButton="True">
+    <Grid>
+      <Grid.RowDefinitions>
+        <RowDefinition Height="Auto" />
+        <RowDefinition Height="350" />
+        <RowDefinition Height="*" />
+      </Grid.RowDefinitions>
+      <dxg:GridControl
+        x:Name="gcData"
+        Grid.Row="1"
+        Margin="2"
+        SelectionMode="Cell">
+        <dxg:GridControl.View>
+          <dxg:TableView
+            x:Name="gvData"
+            PasteMode="Append"
+            SearchDelay="10"
+            FocusedRowChanged="gvData_FocusedRowChanged"
+            SearchPanelFindFilter="Contains"
+            ShowAutoFilterRow="True"
+            ShowCriteriaInAutoFilterRow="True"
+            ShowGroupPanel="False"
+            ShowSearchPanelMode="Never" />
+        </dxg:GridControl.View>
+        <dxg:GridColumn FieldName="NgayHoaDon" Header="Ngày hóa đơn">
+          <dxg:GridColumn.EditSettings>
+            <dxe:DateEditSettings Mask="dd/MM/yyyy"/>
+          </dxg:GridColumn.EditSettings>
+        </dxg:GridColumn>
+        <dxg:GridColumn FieldName="TenDoiTac" Header="Tên khách hàng" Width="150"/>
+        <dxg:GridColumn FieldName="DiaChi" Header="Địa chỉ khách hàng" Width="120"/>
+        <dxg:GridColumn FieldName="DienThoai"  Header="Điện thoại khách hàng" Width="80"/>
+        <dxg:GridColumn FieldName="ThanhTien" Header="Tổng tiền " Width="120">
+          <dxg:GridColumn.EditSettings>
+            <dxe:TextEditSettings Mask="n0" MaskType="Numeric" MaskUseAsDisplayFormat="True" MaskCulture="vi-VN"/>
+          </dxg:GridColumn.EditSettings>
+        </dxg:GridColumn>
+        <dxg:GridColumn FieldName="GhiChu" Header="Ghi chú" Width="250"/>
+      </dxg:GridControl>
+
+      <dxg:GridControl
+        x:Name="gcDataD"
+        Grid.Row="2"
+        Margin="2"
+        SelectionMode="Cell">
+        <dxg:GridControl.View>
+          <dxg:TableView
+            x:Name="gvDataD"
+            PasteMode="Append"
+            SearchDelay="10"
+            SearchPanelFindFilter="Contains"
+            ShowAutoFilterRow="True"
+            ShowTotalSummary="True"
+            ShowCriteriaInAutoFilterRow="True"
+            ShowGroupPanel="False"
+            ShowSearchPanelMode="Never" />
+        </dxg:GridControl.View>
+        <dxg:GridControl.TotalSummary>
+          <dxg:GridSummaryItem FieldName="TenThuoc" SummaryType="Count"
+                                      DisplayFormat="Tổng sản phẩm: {0:n0}"/>
+          <dxg:GridSummaryItem FieldName="ThanhTien" SummaryType="Sum"  DisplayFormat="Thành tiền: {0:n0}"/>
+        </dxg:GridControl.TotalSummary>
+        <dxg:GridColumn
+          Width="50"          AllowColumnFiltering="True"
+          AllowEditing="True"
+          AutoFilterCriteria="Contains"
+          FieldName="MaThuoc" Header="Mã thuốc"
+          FilterPopupMode="CheckedList"
+          IsSmart="True">
+        </dxg:GridColumn>
+        <dxg:GridColumn 
+          Width="150"
+          AllowColumnFiltering="True"
+          AllowEditing="True"
+          AutoFilterCriteria="Contains"
+          FieldName="TenThuoc"
+          FilterPopupMode="CheckedList"
+          Header="Tên thuốc"
+          IsSmart="True"
+          ReadOnly="True" />
+        <dxg:GridColumn
+          Width="50"
+          AllowColumnFiltering="True"
+          AllowEditing="True"
+          AutoFilterCriteria="Contains"
+          FieldName="DonViTinh"
+          FilterPopupMode="CheckedList"
+          Header="ĐVT"
+          ReadOnly="True"/>
+        <dxg:GridColumn FieldName="SoLuong" Header="Số lượng" UnboundType="Decimal" Width="60">
+          <dxg:GridColumn.EditSettings>
+            <dxe:TextEditSettings Mask="n0" MaskType="Numeric" MaskUseAsDisplayFormat="True" MaskCulture="vi-VN"/>
+          </dxg:GridColumn.EditSettings>
+        </dxg:GridColumn>
+        <dxg:GridColumn FieldName="DonGia"  Header="Đơn giá" UnboundType="Decimal" Width="90">
+          <dxg:GridColumn.EditSettings>
+            <dxe:TextEditSettings Mask="n0" MaskType="Numeric" MaskUseAsDisplayFormat="True" MaskCulture="vi-VN"/>
+          </dxg:GridColumn.EditSettings>
+        </dxg:GridColumn>
+        <dxg:GridColumn FieldName="ThanhTien" Header="Thành tiền"  Width="120">
+          <dxg:GridColumn.EditSettings>
+            <dxe:TextEditSettings Mask="n0" MaskType="Numeric" MaskUseAsDisplayFormat="True" MaskCulture="vi-VN"/>
+          </dxg:GridColumn.EditSettings>
+        </dxg:GridColumn>
+      </dxg:GridControl>
+
+      <StackPanel
+        Grid.Row="0"
+        Margin="5 0 5 3"
+        Orientation="Horizontal">
+        <dx:SimpleButton
+          x:Name="btnThem"
+          Margin="5 0 "
+          Click="btnThem_Click"
+          Content="Thêm mới" />
+
+        <dx:SimpleButton
+          x:Name="btnSua"
+          Margin="5 0 "
+          Click="btnSua_Click"
+          Content="Sửa phiếu" Height="20" VerticalAlignment="Top" />
+
+        <dx:SimpleButton
+          x:Name="btnDelete"
+          Margin="5 0 "
+          Click="btnDelete_Click"
+          Content="Xóa phiếu" />
+      </StackPanel>
+    </Grid>
+  </dxwui:PageAdornerControl>
+</UserControl>
